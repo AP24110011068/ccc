@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define STUD_FILE "students.txt"
-#define CRE_FILE  "credentials.txt"
+#define CRE_FILE  "credential.txt"
 
 char currentUser[50];
 char currentRole[20];
@@ -221,5 +221,6 @@ int main() {
 
     return 0;
 }
+
 
 
